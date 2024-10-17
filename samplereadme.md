@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-this is a test
+template
 
 ## Table of Contents
 - [Description](#description)
@@ -19,16 +19,16 @@ this is a test
 npm install
 
 ## Usage
-used to make a ReadMe
+making a sample README
 
 ## Contributing
-clone and use it 
+author (CFeltes), tutoring sessions, and AI
 
 ## Tests
 npm run test
 
 ## Questions
-Questions or comments? Check out my [GitHub]() or shoot me an [email](mailto:cody.barnes9624@gmail.com).
+Questions or comments? Check out my [GitHub]() or shoot me an [email](mailto:cory.feltes@gmail.com).
 
 ## License
   This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
