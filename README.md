@@ -49,12 +49,10 @@ Step-by-step instructions on how to install and set up your project.
 Instructions on how to use your application.
 
 Visit my sites here!
-https://CFeltes.github.io/README-generator-H7/
-https://github.com/CFeltes/README-generator-H7
+https://cfeltes.github.io/README-generator-H7/
+https://github.com/CFeltes/README-generator-H7.git
+git@github.com:CFeltes/README-generator-H7.git
 
-![See First Page Screenshot](Screenshot-1.jpg)
-![See Secord Page Screenshot](Screenshot-2.jpg)
-![See Third Page Screenshot](Screenshot-3.jpg)
 
 
 ## Contributing
