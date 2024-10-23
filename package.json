@@ -1,22 +1,15 @@
 {
-  "name": "readme-generator-h7",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "Seventh homework assignment",
-  "main": "server.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CFeltes/README-generator-H7.git"
-  },
-  "author": "CFeltes",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CFeltes/README-generator-H7/issues"
-  },
-  "homepage": "https://github.com/CFeltes/README-generator-H7#readme",
   "dependencies": {
-    "express": "^4.21.1"
+    "inquirer": "^8.2.4"
   }
 }
+
